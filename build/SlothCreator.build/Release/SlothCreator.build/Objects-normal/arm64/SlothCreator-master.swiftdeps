@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "1bbd8ab03dd7af08a65636e26ac72c190fc996b4781345137c1aa1e73c02b98e"
+build_start_time: [1694012151, 492342000]
+build_end_time: [1694012152, 866912000]
+inputs:
+  "/Users/paula/Desktop/SlothCreator/SlothCreator/ContentView.swift": [1694011392, 812328339]
+  "/Users/paula/Desktop/SlothCreator/SlothCreator/SlothCreatorApp.swift": [1694011392, 809269309]
