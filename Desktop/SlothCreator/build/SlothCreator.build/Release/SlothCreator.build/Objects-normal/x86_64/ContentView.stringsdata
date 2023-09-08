@@ -1,0 +1,12 @@
+{
+  "source": "/Users/paula/Desktop/SlothCreator/SlothCreator/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}
