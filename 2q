@@ -1,0 +1,64 @@
+Place ducumentation file inside the root
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   SlothCreator.doccarchive/css/chunk-384ef189.7ede1ea3.css
+#	new file:   SlothCreator.doccarchive/css/documentation-topic.29351f99.css
+#	new file:   SlothCreator.doccarchive/css/documentation-topic~topic.fccbd76c.css
+#	new file:   SlothCreator.doccarchive/css/documentation-topic~topic~tutorials-overview.1099452b.css
+#	new file:   SlothCreator.doccarchive/css/index.d5b499b0.css
+#	new file:   SlothCreator.doccarchive/css/topic.726a35dc.css
+#	new file:   SlothCreator.doccarchive/css/tutorials-overview.2a582c39.css
+#	new file:   SlothCreator.doccarchive/data/documentation/slothcreator.json
+#	new file:   SlothCreator.doccarchive/developer-og-twitter.jpg
+#	new file:   SlothCreator.doccarchive/developer-og.jpg
+#	new file:   SlothCreator.doccarchive/documentation/slothcreator/index.html
+#	new file:   SlothCreator.doccarchive/favicon.ico
+#	new file:   SlothCreator.doccarchive/favicon.svg
+#	new file:   SlothCreator.doccarchive/img/added-icon.d6f7e47d.svg
+#	new file:   SlothCreator.doccarchive/img/deprecated-icon.015b4f17.svg
+#	new file:   SlothCreator.doccarchive/img/modified-icon.f496e73d.svg
+#	new file:   SlothCreator.doccarchive/img/no-image@2x.df2a0a50.png
+#	new file:   SlothCreator.doccarchive/index.html
+#	new file:   SlothCreator.doccarchive/index/availability.index
+#	new file:   SlothCreator.doccarchive/index/data.mdb
+#	new file:   SlothCreator.doccarchive/index/index.json
+#	new file:   SlothCreator.doccarchive/index/navigator.index
+#	new file:   SlothCreator.doccarchive/js/chunk-2d0d3105.cd72cc8e.js
+#	new file:   SlothCreator.doccarchive/js/chunk-384ef189.bb1ed903.js
+#	new file:   SlothCreator.doccarchive/js/chunk-vendors.b24b7aaa.js
+#	new file:   SlothCreator.doccarchive/js/documentation-topic.2ed269e3.js
+#	new file:   SlothCreator.doccarchive/js/documentation-topic~topic.900fc80c.js
+#	new file:   SlothCreator.doccarchive/js/documentation-topic~topic~tutorials-overview.5b27b87b.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-bash.1b52852f.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-c.d1db3f17.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-cpp.eaddddbe.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-css.75eab1fe.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-custom-markdown.7cffc4b3.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-custom-swift.5cda5c20.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-diff.62d66733.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-http.163e45b6.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-java.8326d9d8.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-javascript.acb8a8eb.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-json.471128d2.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-llvm.6100b125.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-markdown.90077643.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-objectivec.bcdf5156.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-perl.757d7b6f.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-php.cc8d6c27.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-python.c214ed92.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-ruby.f889d392.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-scss.62ee18da.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-shell.dd7f411f.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-swift.84f3e88c.js
+#	new file:   SlothCreator.doccarchive/js/highlight-js-xml.9c3688c7.js
+#	new file:   SlothCreator.doccarchive/js/index.aa320932.js
+#	new file:   SlothCreator.doccarchive/js/topic.bb695832.js
+#	new file:   SlothCreator.doccarchive/js/tutorials-overview.2cadc732.js
+#	new file:   SlothCreator.doccarchive/metadata.json
+#	new file:   SlothCreator.doccarchive/theme-settings.json
+#
